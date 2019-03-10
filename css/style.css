@@ -1500,7 +1500,9 @@ header {
 
 @media only screen and (max-width: 767px) {
   .section-header h2.title {
-  		font-size:31.5px;
+          font-size:31.5px;
+          margin-top: -40px;
+          margin-bottom: 10px;
 	}
 
   .main-btn , .default-btn , .outline-btn , .white-btn  {
