@@ -49,7 +49,7 @@ body {
     font-size: 16px;
     line-height: 1.6;
     overflow-x: hidden;
-    color: #868F9B;
+    color: #1c7c54;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -81,7 +81,7 @@ h5 {
 }
 
 a {
-    color: #6195FF;
+    color: #1c7c54;
     text-decoration: none;
     -webkit-transition: 0.2s opacity;
     transition: 0.2s opacity;
@@ -189,7 +189,7 @@ ul, ol {
   	display:block;
   	height:4px;
   	width:40px;
-  	background-color: #6195FF;
+  	background-color: #1c7c54;
     margin-top: 20px;
 }
 
@@ -236,7 +236,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .main-btn {
-    background: #6195FF;
+    background: #1C7C54;
     color: #FFF;
 }
 
@@ -343,12 +343,12 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     }
     .main-nav>li>a:hover, .main-nav>li>a:focus, .main-nav>li.active>a {
         background: transparent;
-        color: #6195FF;
+        color: #1c7c54;
     }
     .main-nav>li>a:after {
         content: "";
         display: block;
-        background-color: #6195FF;
+        background-color: #1c7c54;
         height: 2px;
         width: 0%;
         -webkit-transition: 0.2s width;
@@ -465,10 +465,10 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
         transition: 0.2s all;
     }
     .main-nav>li.active {
-        border-left: 6px solid #6195FF;
+        border-left: 6px solid #1c7c54;
     }
     .main-nav li a:hover, .main-nav li a:focus {
-        background-color: #6195FF;
+        background-color: #1c7c54;
         color: #FFF;
         opacity: 1;
     }
@@ -634,7 +634,7 @@ header {
 
 .about i {
     font-size: 36px;
-    color: #6195FF;
+    color: #1c7c54;
     margin-bottom: 20px;
 }
 
@@ -1071,7 +1071,7 @@ header {
 }
 
 .team:hover .team-content span {
-    color: #6195FF;
+    color: #1c7c54;
 }
 
 .team .team-social {
@@ -1422,7 +1422,7 @@ header {
 
 .contact i {
     font-size: 36px;
-    color: #6195FF;
+    color: #1c7c54;
     margin-bottom: 20px;
 }
 
@@ -1650,7 +1650,7 @@ header {
   	height: 50px;
   	line-height: 50px;
   	text-align: center;
-  	background: #6195FF;
+  	background: #1c7c54;
   	border-radius:3px;
   	color: #FFF;
   	z-index: 9999;
@@ -1693,7 +1693,7 @@ header {
 }
 .preloader span {
     display: inline-block;
-    background-color: #6195FF;
+    background-color: #1c7c54;
     width: 25px;
     height: 25px;
     -webkit-animation: 1s preload ease-in-out infinite;
